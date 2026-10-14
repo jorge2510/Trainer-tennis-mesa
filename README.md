@@ -75,4 +75,4 @@ Los umbrales de la clase `Reglas` parten de la literatura y se ajustan a cada ju
 
 ## Autores
 
-Proyecto desarrollado por **Jorge Cabrera** y **Nicolás Manzano**, estudiantes de la **Universidad de San Buenaventura**.
+Proyecto desarrollado por **Jorge Cabrera** y **Nicolás Manzano**, estudiantes de la **Universidad de San Buenaventura** en la ciudad de Cali.
